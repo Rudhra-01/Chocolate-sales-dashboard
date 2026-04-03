@@ -18,3 +18,7 @@ This project demonstrates skills in:
 - Data analysis and storytelling
 - Building interactive dashboards
 - Extracting business insights from datasets
+
+##📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
